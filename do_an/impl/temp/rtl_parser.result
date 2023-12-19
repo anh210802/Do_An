@@ -1,0 +1,662 @@
+[
+ {
+  "InstFile" : "E:/DO_AN/do_an/src/main.v",
+  "InstLine" : 1,
+  "InstName" : "main",
+  "ModuleFile" : "E:/DO_AN/do_an/src/main.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "main",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/DO_AN/do_an/src/main.v",
+    "InstLine" : 23,
+    "InstName" : "CRL",
+    "ModuleFile" : "E:/DO_AN/do_an/src/controller.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "controller",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 288,
+      "InstName" : "EFFECT_NEXT",
+      "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "button"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 289,
+      "InstName" : "FREQUENCY_NEXT",
+      "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "button"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 290,
+      "InstName" : "STOP",
+      "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "button"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 292,
+      "InstName" : "S0",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 293,
+      "InstName" : "S1",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 294,
+      "InstName" : "S2",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 295,
+      "InstName" : "S3",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 296,
+      "InstName" : "S4",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 297,
+      "InstName" : "S5",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 298,
+      "InstName" : "S6",
+      "ModuleFile" : "E:/DO_AN/do_an/src/switch.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "switch"
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 300,
+      "InstName" : "E0",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect0.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect0",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 369,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 370,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 371,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 372,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 373,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 374,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect0.v",
+        "InstLine" : 375,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 302,
+      "InstName" : "E1",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect1.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect1",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 179,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 180,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 181,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 182,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 183,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 184,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect1.v",
+        "InstLine" : 185,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 304,
+      "InstName" : "E2",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect2.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect2",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 189,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 190,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 191,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 192,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 193,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 194,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect2.v",
+        "InstLine" : 195,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 306,
+      "InstName" : "E3",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect3.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect3",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 223,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 224,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 225,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 226,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 227,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 228,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect3.v",
+        "InstLine" : 229,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 308,
+      "InstName" : "E4",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect4.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect4",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 280,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 281,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 282,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 283,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 284,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 285,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect4.v",
+        "InstLine" : 286,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 310,
+      "InstName" : "E5",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect5.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect5",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 466,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 467,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 468,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 469,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 470,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 471,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect5.v",
+        "InstLine" : 472,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 312,
+      "InstName" : "E6",
+      "ModuleFile" : "E:/DO_AN/do_an/src/effect6.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "effect6",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 478,
+        "InstName" : "I0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 479,
+        "InstName" : "I1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 480,
+        "InstName" : "I2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 481,
+        "InstName" : "I3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 482,
+        "InstName" : "I4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 483,
+        "InstName" : "I5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/effect6.v",
+        "InstLine" : 484,
+        "InstName" : "I6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       }
+      ]
+     },
+     {
+      "InstFile" : "E:/DO_AN/do_an/src/controller.v",
+      "InstLine" : 315,
+      "InstName" : "SET",
+      "ModuleFile" : "E:/DO_AN/do_an/src/setting.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "setting",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 344,
+        "InstName" : "L0",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 345,
+        "InstName" : "L1",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 346,
+        "InstName" : "L2",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 347,
+        "InstName" : "L3",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 348,
+        "InstName" : "L4",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 349,
+        "InstName" : "L5",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 350,
+        "InstName" : "L6",
+        "ModuleFile" : "E:/DO_AN/do_an/src/table_char.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "table_char"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 352,
+        "InstName" : "LEFT",
+        "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "button"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 353,
+        "InstName" : "RIGHT",
+        "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "button"
+       },
+       {
+        "InstFile" : "E:/DO_AN/do_an/src/setting.v",
+        "InstLine" : 354,
+        "InstName" : "CHANGE",
+        "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "button"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/DO_AN/do_an/src/main.v",
+    "InstLine" : 34,
+    "InstName" : "CHANGE_MODE",
+    "ModuleFile" : "E:/DO_AN/do_an/src/button.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "button"
+   }
+  ]
+ }
+]

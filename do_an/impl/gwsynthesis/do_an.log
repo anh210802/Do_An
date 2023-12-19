@@ -1,0 +1,95 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\DO_AN\do_an\src\button.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\controller.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect0.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect1.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect2.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect3.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect4.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect5.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\effect6.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\main.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\switch.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\table_char.v'
+Analyzing Verilog file 'E:\DO_AN\do_an\src\setting.v'
+Compiling module 'main'("E:\DO_AN\do_an\src\main.v":1)
+Compiling module 'controller'("E:\DO_AN\do_an\src\controller.v":1)
+Compiling module 'button'("E:\DO_AN\do_an\src\button.v":1)
+Compiling module 'switch'("E:\DO_AN\do_an\src\switch.v":1)
+Compiling module 'effect0'("E:\DO_AN\do_an\src\effect0.v":1)
+Compiling module 'table_char'("E:\DO_AN\do_an\src\table_char.v":1)
+Compiling module 'effect1'("E:\DO_AN\do_an\src\effect1.v":1)
+Compiling module 'effect2'("E:\DO_AN\do_an\src\effect2.v":1)
+Compiling module 'effect3'("E:\DO_AN\do_an\src\effect3.v":1)
+Compiling module 'effect4'("E:\DO_AN\do_an\src\effect4.v":1)
+Compiling module 'effect5'("E:\DO_AN\do_an\src\effect5.v":1)
+Compiling module 'effect6'("E:\DO_AN\do_an\src\effect6.v":1)
+Compiling module 'setting'("E:\DO_AN\do_an\src\setting.v":1)
+NOTE  (EX0101) : Current top module is "main"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "table_char" instantiated to "I0" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":179)
+WARN  (NL0002) : The module "table_char" instantiated to "I1" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":180)
+WARN  (NL0002) : The module "table_char" instantiated to "I2" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":181)
+WARN  (NL0002) : The module "table_char" instantiated to "I3" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":182)
+WARN  (NL0002) : The module "table_char" instantiated to "I4" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":183)
+WARN  (NL0002) : The module "table_char" instantiated to "I5" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":184)
+WARN  (NL0002) : The module "table_char" instantiated to "I6" is swept in optimizing("E:\DO_AN\do_an\src\effect1.v":185)
+WARN  (NL0002) : The module "table_char" instantiated to "I0" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":189)
+WARN  (NL0002) : The module "table_char" instantiated to "I1" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":190)
+WARN  (NL0002) : The module "table_char" instantiated to "I2" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":191)
+WARN  (NL0002) : The module "table_char" instantiated to "I3" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":192)
+WARN  (NL0002) : The module "table_char" instantiated to "I4" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":193)
+WARN  (NL0002) : The module "table_char" instantiated to "I5" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":194)
+WARN  (NL0002) : The module "table_char" instantiated to "I6" is swept in optimizing("E:\DO_AN\do_an\src\effect2.v":195)
+WARN  (NL0002) : The module "table_char" instantiated to "I0" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":223)
+WARN  (NL0002) : The module "table_char" instantiated to "I1" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":224)
+WARN  (NL0002) : The module "table_char" instantiated to "I2" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":225)
+WARN  (NL0002) : The module "table_char" instantiated to "I3" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":226)
+WARN  (NL0002) : The module "table_char" instantiated to "I4" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":227)
+WARN  (NL0002) : The module "table_char" instantiated to "I5" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":228)
+WARN  (NL0002) : The module "table_char" instantiated to "I6" is swept in optimizing("E:\DO_AN\do_an\src\effect3.v":229)
+WARN  (NL0002) : The module "table_char" instantiated to "I0" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":280)
+WARN  (NL0002) : The module "table_char" instantiated to "I1" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":281)
+WARN  (NL0002) : The module "table_char" instantiated to "I2" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":282)
+WARN  (NL0002) : The module "table_char" instantiated to "I3" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":283)
+WARN  (NL0002) : The module "table_char" instantiated to "I4" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":284)
+WARN  (NL0002) : The module "table_char" instantiated to "I5" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":285)
+WARN  (NL0002) : The module "table_char" instantiated to "I6" is swept in optimizing("E:\DO_AN\do_an\src\effect4.v":286)
+WARN  (NL0002) : The module "table_char" instantiated to "I0" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":466)
+WARN  (NL0002) : The module "table_char" instantiated to "I1" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":467)
+WARN  (NL0002) : The module "table_char" instantiated to "I2" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":468)
+WARN  (NL0002) : The module "table_char" instantiated to "I3" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":469)
+WARN  (NL0002) : The module "table_char" instantiated to "I4" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":470)
+WARN  (NL0002) : The module "table_char" instantiated to "I5" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":471)
+WARN  (NL0002) : The module "table_char" instantiated to "I6" is swept in optimizing("E:\DO_AN\do_an\src\effect5.v":472)
+WARN  (NL0002) : The module "table_char" instantiated to "I0" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":478)
+WARN  (NL0002) : The module "table_char" instantiated to "I1" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":479)
+WARN  (NL0002) : The module "table_char" instantiated to "I2" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":480)
+WARN  (NL0002) : The module "table_char" instantiated to "I3" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":481)
+WARN  (NL0002) : The module "table_char" instantiated to "I4" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":482)
+WARN  (NL0002) : The module "table_char" instantiated to "I5" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":483)
+WARN  (NL0002) : The module "table_char" instantiated to "I6" is swept in optimizing("E:\DO_AN\do_an\src\effect6.v":484)
+WARN  (NL0002) : The module "table_char" instantiated to "L1" is swept in optimizing("E:\DO_AN\do_an\src\setting.v":345)
+WARN  (NL0002) : The module "table_char" instantiated to "L2" is swept in optimizing("E:\DO_AN\do_an\src\setting.v":346)
+WARN  (NL0002) : The module "table_char" instantiated to "L3" is swept in optimizing("E:\DO_AN\do_an\src\setting.v":347)
+WARN  (NL0002) : The module "table_char" instantiated to "L4" is swept in optimizing("E:\DO_AN\do_an\src\setting.v":348)
+WARN  (NL0002) : The module "table_char" instantiated to "L5" is swept in optimizing("E:\DO_AN\do_an\src\setting.v":349)
+[95%] Generate netlist file "E:\DO_AN\do_an\impl\gwsynthesis\do_an.vg" completed
+[100%] Generate report file "E:\DO_AN\do_an\impl\gwsynthesis\do_an_syn.rpt.html" completed
+GowinSynthesis finish
